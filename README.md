@@ -1,5 +1,12 @@
-# Wireshark
+<div align="center">
 
+  # Wireshark
+  
+<div align=center>
+  <img src='https://www.wireshark.org/docs/wsug_html_chunked/images/ws-main.png' height="200%" width="700" healt="wirewire"
+</div>
+<hr>
+  
 O **Wireshark** é uma poderosa ferramenta de análise de protocolo de rede e captura de pacotes. Ele permite que os usuários capturem e visualizem o tráfego de rede em tempo real e analisem dados capturados de forma detalhada. O Wireshark suporta uma ampla variedade de protocolos de rede e é uma ferramenta essencial para administradores de rede, engenheiros de segurança e profissionais de TI em geral.
 
 ## Principais recursos
