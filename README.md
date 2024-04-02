@@ -51,8 +51,30 @@ Veja uma breve explicação do funcionamento:
 </div>
 
 Em filter você pode usar diversos comandos para filtrar os pacotes que vagaram ou estão vagando na sua rede. Você	pode	clicar	duas	vezes	em	um	pacote	para	obter	mais	informações	sobre	ele.
-<strong> Componentes!:
+<br>
+<div align=center>
+  
+# Componentes:
+  
+</div>
 
 <div align=center>
-  <img src='' height="200%" width="700" healt="wirewire">
+  <img src='https://github.com/GuilhermeNobrega/GuilhermeNobrega/blob/main/wiresss.PNG' height="200%" width="700" healt="wirewire">
 </div>
+
+- **Menus de Comando**:
+  - Os menus de comando do Wireshark são menus suspensos padrão localizados na parte superior da janela. Os menus "File" e "Capture" são os mais importantes para iniciantes:
+    - **File**: Permite salvar dados de pacotes capturados ou abrir um arquivo contendo dados de pacotes capturados anteriormente, além de sair do aplicativo Wireshark.
+    - **Capture**: Permite começar a captura de pacotes.
+
+- **Janela de Listagem de Pacotes**:
+  - Esta janela exibe um resumo de uma linha para cada pacote capturado, incluindo o número do pacote, o momento da captura, endereços de origem e destino, tipo de protocolo e informações específicas do protocolo contido no pacote. A lista de pacotes pode ser classificada de acordo com qualquer uma dessas categorias, clicando sobre o nome da coluna.
+
+- **Janela de Detalhes do Cabeçalho do Pacote**:
+  - Fornece detalhes sobre o pacote selecionado na janela de listagem de pacotes. Você pode selecionar um pacote clicando sobre o resumo de uma linha do pacote na janela de listagem de pacotes.
+
+- **Janela de Conteúdo dos Pacotes**:
+  - Exibe todo o conteúdo do quadro capturado, em ASCII e formato hexadecimal.
+
+- **Campo de Filtragem de Pacotes**:
+  - Na parte superior da interface gráfica do Wireshark, está o campo de filtragem para exibição de pacotes, onde um nome de protocolo ou outras informações podem ser inseridos para filtrar as informações exibidas na janela de listagem de pacotes.
