@@ -42,8 +42,17 @@ O **Wireshark** é uma poderosa ferramenta de análise de protocolo de rede e ca
 - Identificação de ataques de segurança e anomalias de rede.
 - Depuração de aplicativos e serviços de rede.
 
-## Comandos
+## Interface
 
-Aqui estão alguns comandos úteis que podem ser usados com o Wireshark:
+Veja uma breve explicação do funcionamento:
 
-1. **Vou adicionar..**
+<div align=center>
+  <img src='https://s2-techtudo.glbimg.com/Uo-MZ_zu_VPSNtLCL6oKxkqmeKg=/0x0:620x295/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/5/G/en7VckSPimFhnvIqJoaA/2012-09-14-wire101.png' height="200%" width="700" healt="wirewire">
+</div>
+
+Em filter você pode usar diversos comandos para filtrar os pacotes que vagaram ou estão vagando na sua rede. Você	pode	clicar	duas	vezes	em	um	pacote	para	obter	mais	informações	sobre	ele.
+<strong> Componentes!:
+
+<div align=center>
+  <img src='' height="200%" width="700" healt="wirewire">
+</div>
